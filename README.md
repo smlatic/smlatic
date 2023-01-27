@@ -2,11 +2,11 @@
 
 Welcome to my profile! :robot:
 
-I'm an aspiring data science student currently enrolled at IT-Hogskolan Gothenburg as [Systems developer - AI and Machinelearning][iths-ai]. Previously I have worked as a landsurveyor specialized in construction as an consultant.
+I'm an aspiring data science student currently enrolled at IT-Hogskolan Gothenburg as [Systems developer - AI and Machinelearning][iths-ai]. Previously I have worked as a landsurveyor specialized in construction as an consultant at LE34.
 
 I am looking for an internship 2023 in ML/Data science where I can further develop and grow.
 
-Thanks for visiting and I'd love to connect!
+Thank you for visiting my page and I'd love to connect!
 
 ---
 
@@ -19,7 +19,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 | [Python programming][pytprog]       | Introduction course     |
 | [Linear algebra][lin_alg]          | Introductory Linear Algebra  |
 | [Data analysis][data_analysis]     | Course focusing on Pandas, Plotly, Dash    |
-| [Statistics][stat]     | Focus of learning concepts in statistical methods    |
+| [Statistics][stat]     | Focus on learning concepts in statistical methods    |
 | [Machine learning-ITHS]<!--[ml-iths]-->    | Traditional Machine Learning       |
 | [Deep learning]<!--[dl]-->           | Deep Learning Course               |
 
