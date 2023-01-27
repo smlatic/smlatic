@@ -33,7 +33,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 
 
 ## Self-Study :computer:
-Repos that relate to my free time. I'm a big fan of Udemy and love trying new courses there.
+Repos that relate to my free time. I'm a big fan of Udemy and love learning new skills.
 
 | Repo                    | Description                                   |
 | ------------------------------ | --------------------------------------------- |
