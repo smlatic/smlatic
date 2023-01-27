@@ -1,9 +1,8 @@
 ![ working as a landsurveyor in construction to a career in machine learning](assets/helmet.png)
 
-# Edin Smlatic :robot:  
-Welcome to my profile! 
+Welcome to my profile! :robot:
 
-I'm an aspiring data science student currently enrolled at IT-Hogskolan Gothenburg as [Systems developer - AI and Machinelearning][iths-ai]. Previously I have worked as a landsurveyor specialized in construction.
+I'm an aspiring data science student currently enrolled at IT-Hogskolan Gothenburg as [Systems developer - AI and Machinelearning][iths-ai]. Previously I have worked as a landsurveyor specialized in construction as an consultant.
 
 I am looking for an internship 2023 in ML/Data science where I can further develop and grow.
 
