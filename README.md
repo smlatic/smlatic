@@ -20,14 +20,14 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 | [Linear algebra][lin_alg]          | Introductory Linear Algebra  |
 | [Data analysis][data_analysis]     | Course focusing on Pandas, Plotly, Dash    |
 | [Statistics][stat]     | Focus on learning concepts in statistical methods    |
-| [Machine learning-ITHS]<!--[ml-iths]-->    | Traditional Machine Learning       |
+| [Machine learning-ITHS][ml-iths]    | Traditional Machine Learning       |
 | [Deep learning]<!--[dl]-->           | Deep Learning Course               |
 
 [iths-ai]: https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/
 [pytprog]: https://github.com/smlatic/Python-Edin-Smlatic
 [data_analysis]: https://github.com/smlatic/Databehandling-Edin-Smlatic
 [stat]: https://github.com/smlatic/statistiska-metoder-workfolder
-<!-- [ml-iths]: https://github.com/kokchun/Maskininlarning-AI21
+[ml-iths]: https://github.com/smlatic/Machine-Learning-ITHS
 [dl]: https://github.com/kokchun/Deep-learning-AI21  -->
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
