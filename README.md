@@ -28,7 +28,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 [data_analysis]: https://github.com/smlatic/Databehandling-Edin-Smlatic
 [stat]: https://github.com/smlatic/statistiska-metoder-workfolder
 [ml-iths]: https://github.com/smlatic/Machine-Learning-ITHS
-[dl]: https://github.com/kokchun/Deep-learning-AI21  -->
+<!--[dl]: https://github.com/kokchun/Deep-learning-AI21  -->
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
 
