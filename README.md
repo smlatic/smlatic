@@ -1,5 +1,3 @@
-![ working as a landsurveyor in construction to a career in machine learning](assets/helmet.png)
-
 Welcome to my profile! :robot:
 
 I'm an aspiring data science student currently enrolled at IT-Hogskolan Gothenburg as [Systems developer - AI and Machinelearning][iths-ai]. Previously I have worked as a landsurveyor specialized in construction as an consultant at LE34.
