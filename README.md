@@ -19,6 +19,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 | [Data analysis][data_analysis]     | Course focusing on Pandas, Plotly, Dash    |
 | [Statistics][stat]     | Focus on learning concepts in statistical methods    |
 | [Machine learning-ITHS][ml-iths]    | Traditional Machine Learning       |
+| [Databaser][databaser]    | SQL - Databases, etc       |
 | [Deep learning]<!--[dl]-->           | Deep Learning Course               |
 
 [iths-ai]: https://www.iths.se/utbildningar/utvecklare-inom-ai-och-maskininlarning/
@@ -28,6 +29,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 [ml-iths]: https://github.com/smlatic/Machine-Learning-ITHS
 <!--[dl]: https://github.com/kokchun/Deep-learning-AI21  -->
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
+[databaser]: https://github.com/smlatic/Databaser-SQL
 
 
 ## Self-Study :computer:
