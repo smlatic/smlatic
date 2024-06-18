@@ -1,5 +1,5 @@
 👋 Hi! I'm a professional with a background in surveying and a strong passion for IT, particularly in Python and experimenting with new AI tools like language models. 
-Currently, I'm working at Ocean Infinity, a tech company that's revolutionizing marine operations for greater sustainability.
+Currently, I'm working at Ocean Infinity, a tech company trying to achieve remote operations at sea.
 
 🔧 My IT-projects are mostly a hobby, but some have made it to implementation. Some of them are:
 
